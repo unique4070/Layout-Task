@@ -141,20 +141,16 @@ button{
     
     .grid-button{
         background-color:hsl(184, 100%, 22%);
-        color: white;
+        color: hsla(0, 0%, 100%, 0.75);
         border-radius: 50rem;
         padding:16px 32px;
-        border: 0;
         font-family: 'Lexend Deca', sans-serif;
-    
-    }
-    a{
-        color: white;
-        text-decoration: none;
-        font-size: 16px;
-    }
-
-
+}
+a{
+    color: hsla(0, 0%, 100%, 0.75);
+    text-decoration: none;
+    font-size: 16px;
+}
         
 
     
